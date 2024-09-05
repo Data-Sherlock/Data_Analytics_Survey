@@ -9,6 +9,9 @@ This repository contains a Power BI dashboard analyzing insights from a comprehe
 
 Dashboard Sections
 
+
+DASHBOARD : ![DATA SERVEY OFF](https://github.com/user-attachments/assets/c80d7740-b07a-4648-af5a-7031c90a7b7a)
+
 Popular Programming Languages:Visualizes the popularity of programming languages within the data field based on survey responses.
 
 Geographical Distribution: Shows the distribution of survey participants across different countries.
